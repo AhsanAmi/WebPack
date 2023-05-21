@@ -1,5 +1,11 @@
 h1{
-    font-size: larger;
-    color: antiquewhite;
+    font-size: 4rem;
+    color:blue;
     text-align: center;
+}
+#img_div{
+    background: url(./assets/1683921030820.jpeg);
+    height: 400px;
+    width: 700px;
+    margin: 9rem;
 }
